@@ -1,0 +1,10 @@
+{
+  "Configurations": [
+    {
+      "Board": "XIAO_ESP32C3",
+      "Device": "00:00:00:00:00:00",
+      "Version": "1.0.0",
+      "URL": "https://example.com/Basic-OTA-Example-XIAO_ESP32C3-1.0.0.bin"
+    }
+  ]
+}
