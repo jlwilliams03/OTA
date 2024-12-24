@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Board": "XIAO_ESP32C3",
-      "Device": "64:E8:33:9A:84",
+      "Device": "64:E8:33:84:9A:84",
       "Version": "2.0.0",
       "URL": "https://example.com/Basic-OTA-Example-XIAO_ESP32C3-1.0.0.bin"
     }
