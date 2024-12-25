@@ -4,7 +4,7 @@
       "Board": "XIAO_ESP32C3",
       "Device": "64:E8:33:84:9A:84",
       "Version": "0.0",
-      "URL": "https://raw.githubusercontent.com/jlwilliams03/OTA/main/my_Basic_OTA_Example.1.0.bin"
+      "URL": "https://raw.githubusercontent.com/jlwilliams03/OTA/main/my_Basic_OTA_Example.bin"
     }
   ]
 }
