@@ -3,8 +3,8 @@
     {
       "Board": "XIAO_ESP32C3",
       "Device": "64:E8:33:84:9A:84",
-      "Version": "0.0",
-      "URL": "https://raw.githubusercontent.com/jlwilliams03/OTA/main/my_Basic_OTA_Example.ino.bin"
+      "Version": "2.0",
+      "URL": "https://raw.githubusercontent.com/jlwilliams03/OTA/main/my_Basic_OTA_Example.2.0.bin"
     }
   ]
 }
