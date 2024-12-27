@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Board": "XIAO_ESP32C3",
+      "Board": "Seeed Studio XIAO ESP32C3",
       "Device": "64:E8:33:84:9A:84",
       "Version": "5.0",
       "URL": "https://raw.githubusercontent.com/jlwilliams03/OTA/main/firmware.5.0.bin"
